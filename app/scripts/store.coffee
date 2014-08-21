@@ -1,0 +1,1 @@
+SpreeEmber.ApplicationAdapter = DS.FixtureAdapter

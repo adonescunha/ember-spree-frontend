@@ -1,0 +1,9 @@
+{
+  "name": "spree-ember",
+  "private": true,
+  "dependencies": {
+    "chai": "~1.9",
+    "mocha": "~1.21"
+  },
+  "devDependencies": {}
+}
